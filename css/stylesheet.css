@@ -32,3 +32,8 @@
 		aside{
 			color: brown;
 		}
+
+	main{
+			padding: 60px;
+			margin: 0 auto;
+		}
