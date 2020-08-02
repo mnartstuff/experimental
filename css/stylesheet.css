@@ -14,7 +14,7 @@
 			font-size: 115%;
     	}
     	body{
-			background-image: url ('drawing_1.jpg');
+			background-color: rgba(247, 238, 199, 0.521);
 		}
 		img{
 			display: block;
