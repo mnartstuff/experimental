@@ -3,6 +3,7 @@
 			color:#2b2b86;
 			text-align: center;
 		}
+
 		h4{
 			color: #2b2b86;
 			text-align: center;
@@ -15,20 +16,24 @@
     	}
     	body{
 			background-color: rgba(247, 238, 199, 0.521);
-		}
+		} 
+
 		img{
 			display: block;
 			margin-left: auto;
 			margin-right: auto;
 		}
+
 		figcaption{
 			text-align: center;
 			font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 			color: rgb(71, 2, 23);
 		}
+
 		.sweetcheex{
 			font-size: 140%;
 		}
+
 		aside{
 			color: brown;
 		}
