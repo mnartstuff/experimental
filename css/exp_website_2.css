@@ -1,0 +1,48 @@
+h2{
+	font-size: 200%;
+	color:#2b2b86;
+	text-align: center;
+}
+h4{
+	color: #2b2b86;
+	text-align: center;
+	font-family: papyrus, beata LP, ITC Cancione, Galahad;
+}
+p{
+	color: rgb(10, 4, 88);
+	text-align: justify;
+	font-size: 115%;
+}
+body{
+	background-color: rgba(247, 238, 199, 0.521);
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+figcaption{
+	text-align: center;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color: rgb(71, 2, 23);
+}
+.sweetcheex{
+	font-size: 140%;
+}
+aside{
+	color: brown;
+}
+
+body{
+	padding: 100px;
+	margin: 0 auto;
+}
+
+summary{
+	text-align: center;
+}
+
+div{
+	width: 30%;
+	display: inline-block;
+}
