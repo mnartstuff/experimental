@@ -14,7 +14,6 @@ p{
 }
 
 body{
-    background-color: rgb(235 236 220);
     margin: 10%;
     background: linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%);
     background: -moz-linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%);
