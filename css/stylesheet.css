@@ -252,6 +252,11 @@ h6{
     border-radius: 10px;
 }
 
+.sweetcheex a:hover{
+    background-color: #FFFFFF;
+    color:  rgb(54, 53, 50);
+}
+
 /* END SWEETCHEEX STYLING */
 
 /* MY ART STYLING */
