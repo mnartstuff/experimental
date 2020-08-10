@@ -1,3 +1,38 @@
+
+h4{
+	color: #2b2b86;
+	text-align: center;
+    font-family: beata LP, ITC Cancione, Galahad;
+    font-size: 150%;
+    clear: both;
+}
+
+p{
+	color: rgb(10, 4, 88);
+	text-align: justify;
+	font-size: 115%;
+}
+
+body{
+    background-color: rgb(235 236 220);
+    margin: 10%;
+    background: linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%);
+    background: -moz-linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%);
+    background: -webkit-linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%);
+    background: -o-linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%);
+
+}
+
+
+figcaption{
+	text-align: center;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color: rgb(71, 2, 23);
+}
+
+
+
+
 /* HEADER STYLING */
 
 h2{
@@ -34,35 +69,6 @@ h6{
 }
 
 /* END HEADER STYLING */
-
-
-
-h4{
-	color: #2b2b86;
-	text-align: center;
-    font-family: beata LP, ITC Cancione, Galahad;
-    font-size: 150%;
-    clear: both;
-}
-
-p{
-	color: rgb(10, 4, 88);
-	text-align: justify;
-	font-size: 115%;
-}
-
-body{
-    background-color: rgb(235 236 220);
-    margin: 10%;
-}
-
-
-figcaption{
-	text-align: center;
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-	color: rgb(71, 2, 23);
-}
-
 
 
 /* HANCOCK STYLING */
@@ -234,6 +240,17 @@ figcaption{
     display: block;
     float: center;
     clear: both;
+}
+
+.sweetcheex a{
+    display: inline-block;
+    background-color: rgb(54, 53, 50);
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 170px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
 }
 
 /* END SWEETCHEEX STYLING */
